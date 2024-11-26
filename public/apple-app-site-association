@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["SZNF4JR32T.com.packapill.app", "SZNF4JR32T.com.packapill.app.dev"],
+        "appID": "SZNF4JR32T.com.packapill.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "SZNF4JR32T.com.packapill.app.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
